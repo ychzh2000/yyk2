@@ -1,0 +1,13 @@
+{
+    "name": "yang/yyk2",
+    "description": "a simple libary",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ychzh2000",
+            "email": "ychzh2000@163.com"
+        }
+    ],
+    "require": {}
+}
